@@ -1,0 +1,15 @@
+C:\Users\Alumno\Desktop\tp2\tl2-teo-2022-TheDiazCode\Teoria\bin\Debug\net6.0\Teoria.exe
+C:\Users\Alumno\Desktop\tp2\tl2-teo-2022-TheDiazCode\Teoria\bin\Debug\net6.0\Teoria.deps.json
+C:\Users\Alumno\Desktop\tp2\tl2-teo-2022-TheDiazCode\Teoria\bin\Debug\net6.0\Teoria.runtimeconfig.json
+C:\Users\Alumno\Desktop\tp2\tl2-teo-2022-TheDiazCode\Teoria\bin\Debug\net6.0\Teoria.dll
+C:\Users\Alumno\Desktop\tp2\tl2-teo-2022-TheDiazCode\Teoria\bin\Debug\net6.0\Teoria.pdb
+C:\Users\Alumno\Desktop\tp2\tl2-teo-2022-TheDiazCode\Teoria\obj\Debug\net6.0\Teoria.csproj.AssemblyReference.cache
+C:\Users\Alumno\Desktop\tp2\tl2-teo-2022-TheDiazCode\Teoria\obj\Debug\net6.0\Teoria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\Desktop\tp2\tl2-teo-2022-TheDiazCode\Teoria\obj\Debug\net6.0\Teoria.AssemblyInfoInputs.cache
+C:\Users\Alumno\Desktop\tp2\tl2-teo-2022-TheDiazCode\Teoria\obj\Debug\net6.0\Teoria.AssemblyInfo.cs
+C:\Users\Alumno\Desktop\tp2\tl2-teo-2022-TheDiazCode\Teoria\obj\Debug\net6.0\Teoria.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\Desktop\tp2\tl2-teo-2022-TheDiazCode\Teoria\obj\Debug\net6.0\Teoria.dll
+C:\Users\Alumno\Desktop\tp2\tl2-teo-2022-TheDiazCode\Teoria\obj\Debug\net6.0\refint\Teoria.dll
+C:\Users\Alumno\Desktop\tp2\tl2-teo-2022-TheDiazCode\Teoria\obj\Debug\net6.0\Teoria.pdb
+C:\Users\Alumno\Desktop\tp2\tl2-teo-2022-TheDiazCode\Teoria\obj\Debug\net6.0\Teoria.genruntimeconfig.cache
+C:\Users\Alumno\Desktop\tp2\tl2-teo-2022-TheDiazCode\Teoria\obj\Debug\net6.0\ref\Teoria.dll
